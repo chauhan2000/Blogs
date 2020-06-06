@@ -1,0 +1,6 @@
+> What is Devops?
+1. It is a combination of two words i.e. Devlopment and Operation.
+2. It is a culture not a tool which cn be implemented into an organisation.
+3. It helps an organisation to speed up its process so that they can speed up the delivery of the product to the end user environment.
+4. An important feature of DevOps is, it is an iterative process.
+5. Continuous integration and Continuous Delivery are the core parts of the DevOps pipeline.
