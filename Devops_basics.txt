@@ -4,3 +4,5 @@
 3. It helps an organisation to speed up its process so that they can speed up the delivery of the product to the end user environment.
 4. An important feature of DevOps is, it is an iterative process.
 5. Continuous integration and Continuous Delivery are the core parts of the DevOps pipeline.
+6. It also helps in increasing the productivity of the company.
+7. Collaboration take place a major role in this culture.
