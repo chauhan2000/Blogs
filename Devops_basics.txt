@@ -6,3 +6,21 @@
 5. Continuous integration and Continuous Delivery are the core parts of the DevOps pipeline.
 6. It also helps in increasing the productivity of the company.
 7. Collaboration take place a major role in this culture.
+
+It basically aim to Automate Everything and Continuous Improvement.
+Devops also helps in increasing the productivity of the company.
+Many people think that by learning tools and hire Devops people they become "Devops" but in actual it is not there because Devops is a culture which can be applied only if they follow all the core values of and follow the Devops pipeline which include CI+CD.
+
+Devops pipeline contain these stages in it
+Build code
+Test (Unit Testing, Integration testing, Function testing, Smoke Testing)
+Staging (QA/UAT)
+Deployment 
+Maintenance and monitoring
+
+Need of Devops
+
+So one question arises that what is the need of it when there is already different methodologies/traditional models in the field.
+Before Devops there are many problems are there like lagging in the delivery of the final product to the end user, conflicts between the Developers and the Operation guys due to which they cannot collaborate and the impact is shown on the final product.
+Another reason is that the testing phase consumes lot of time in traditional models due to which the process speed lays down.
+Feedback from the customers can be collected when the final product is delivered this point has it own disadvantage that if the user will change his requirements then the team has to do all the other phases again.'The code is deployed manually in traditional model so there are many chances of errors in the production.
